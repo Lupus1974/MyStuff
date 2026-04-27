@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0" version="29.6.6">
+  <diagram name="Seite-1" id="fzvd1jzZiTV1wvDdmxIC">
+    <mxGraphModel dx="1403" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99FF99);fontColor=light-dark(#000000,#000000);" value="L0 Prozesslandkarte" vertex="1">
+          <mxGeometry height="40" width="200" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="L1 Hauptprozessgruppen" vertex="1">
+          <mxGeometry height="40" width="200" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66B2FF);" value="L1.1 Prozessgruppen" vertex="1">
+          <mxGeometry height="30" width="100" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF9933);" value="L2 E2E Prozesse/Prozesse" vertex="1">
+          <mxGeometry height="50" width="200" x="80" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(#FFFFFF,#66B2FF);" value="L1.1 Prozessgruppen" vertex="1">
+          <mxGeometry height="30" width="100" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE6CC);fontColor=light-dark(#000000,#000000);" value="L3-n Subprozesse" vertex="1">
+          <mxGeometry height="50" width="200" x="80" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
