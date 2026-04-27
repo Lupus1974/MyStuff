@@ -19,7 +19,7 @@
         <mxCell id="3urZKKyoRvhpQCwRpR4Z-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(#FFFFFF,#66B2FF);" value="L1.1 Prozessgruppen" vertex="1">
           <mxGeometry height="30" width="100" x="180" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="3urZKKyoRvhpQCwRpR4Z-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE6CC);fontColor=light-dark(#000000,#000000);" value="L3-n Subprozesse" vertex="1">
+        <mxCell id="3urZKKyoRvhpQCwRpR4Z-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE6CC);fontColor=light-dark(#000000,#000000);" value="L3 Subprozesse" vertex="1">
           <mxGeometry height="50" width="200" x="80" y="360" as="geometry" />
         </mxCell>
       </root>
