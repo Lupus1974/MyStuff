@@ -1,0 +1,36 @@
+# Lokale Secrets und Zugangsdaten – niemals nach GitHub
+.env
+.env.*
+!.env.example
+secrets.yaml
+secret*.yaml
+*secret*
+*password*
+*passwort*
+*credential*
+*token*
+*.pem
+*.p12
+*.pfx
+*.key
+*.kdbx
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Lokale Daten, Backups und Laufzeitdateien
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.bak
+*.backup
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.cache/
+.DS_Store
+Thumbs.db
